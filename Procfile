@@ -1,0 +1,1 @@
+playwrighttask: npx playwright test example1
